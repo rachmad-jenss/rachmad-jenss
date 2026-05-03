@@ -1,10 +1,10 @@
 # Hi, I'm Rahmad
 
-Civil engineer who writes code. I build software for the construction and EPC industry — from CRM to ERP to open-source engineering tools.
+Civil engineer who writes code. I build software for the construction and EPC industry, from CRM to ERP to open-source engineering tools.
 
 Started coding because spreadsheets and manual workflows weren't cutting it. Now I'm building a full product suite under [Dash Teknologi](https://github.com/rachmad-jenss/dash-teknologi) that connects the dots from winning a tender all the way to closing a project.
 
-## Dash Teknologi — Digital Thread
+## Dash Teknologi - Digital Thread
 
 A connected product suite for EPC companies:
 

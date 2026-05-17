@@ -14,6 +14,7 @@ A connected product suite for EPC companies:
 | [Estimara](https://github.com/rachmad-jenss/cost-your-project) | Cost control & schedule management | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) |
 | [Rangko](https://github.com/rachmad-jenss/rangko) | ERP — finance, HR, supply chain | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) |
 | [Velo Widget](https://github.com/rachmad-jenss/velo-widget) | Desktop widget for Velo CRM | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
+| [AHS Builder](https://github.com/rachmad-jenss/ahs-builder-starter) | Unit price analysis (AHS) builder | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 
 ## Open Source & Side Projects
 

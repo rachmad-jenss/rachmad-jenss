@@ -21,6 +21,7 @@ A connected product suite for EPC companies:
 |---------|-------------|-------|
 | [haul-pave](https://github.com/rachmad-jenss/haul-pave) | Mining haul road pavement analysis & operating cost toolkit | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [haul-calc](https://github.com/rachmad-jenss/haul-calc) | Desktop GUI for haul road calculations | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white) |
+| [ahs-id](https://github.com/rachmad-jenss/ahs-id) | Open-source AHSP calculation engine — turns Permen PUPR coefficients into code | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | [your-everyday-tools-desktop](https://github.com/rachmad-jenss/your-everyday-tools-desktop) | 100+ everyday utilities in one app | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) |
 
 ## Tech Stack
